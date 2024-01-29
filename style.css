@@ -17,7 +17,7 @@
     z-index: 999;
 }
 
-.nav__container{
+.navbar__container{
     display: flex;
     justify-content: space-between;
     height: 80px;
@@ -68,7 +68,7 @@
     height: 100%;
 }
 
-.nav__btn{
+.navbar__btn{
     display: flex;
     justify-content: center;
     align-items: center;
